@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1448207193 source:c:\users\babatus\dropbox\projets\omd\c\test\encrypt.c
+	<omd_api.h>
+	<omdsha256.h>
+
+1441873906 c:\users\babatus\dropbox\projets\omd\c\test\\omd_api.h
+
+1452175443 c:\users\babatus\dropbox\projets\omd\c\test\\omdsha256.h
+	<sha256.h>
+	<omd_api.h>
+
+1448270840 c:\users\babatus\dropbox\projets\omd\c\test\\sha256.h
+	<stddef.h>
+	<inttypes_win.h>
+	<inttypes_mingw.h>
+	<inttypes.h>
+
+1441873910 c:\users\babatus\dropbox\projets\omd\c\test\\inttypes_win.h
+	<stdint_win.h>
+
+1441873910 c:\users\babatus\dropbox\projets\omd\c\test\\stdint_win.h
+	<limits.h>
+	<wchar.h>
+
+1441873910 c:\users\babatus\dropbox\projets\omd\c\test\\inttypes_mingw.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1452177649 source:c:\users\babatus\dropbox\projets\omd\c\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<omdsha256.c>
+	<math.h>
+
+1448208131 c:\users\babatus\dropbox\projets\omd\c\test\\sec_omdsha256.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sha256.h>
+	<md32_common.h>
+
+1441873910 c:\users\babatus\dropbox\projets\omd\c\test\\md32_common.h
+
+1452179477 c:\users\babatus\dropbox\projets\omd\c\test\\omdsha256.c
+	<omdsha256.h>
+	<string.h>
+	<math.h>
+
+1448263109 c:\users\babatus\dropbox\projets\omd\c\test\\secomdsha256.c
+	<Secomdsha256.h>
+	<string.h>
+
+1448019222 c:\users\babatus\dropbox\projets\omd\c\test\\secomdsha256.h
+	<sha256.h>
+	<omd_api.h>
+
+1452174708 source:c:\users\babatus\dropbox\projets\omd\c\test\sha256.c
+	<stdlib.h>
+	<string.h>
+	<sha256.h>
+	<md32_common.h>
+
+1448377100 source:d:\dropbox\projets\omd\c\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<omdsha256.c>
+
